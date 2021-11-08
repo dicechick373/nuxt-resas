@@ -5,7 +5,6 @@
 </template>
 
 <script>
-// import { mapGetters } from 'vuex'
 import Highcharts from 'highcharts'
 import { cloneDeep } from 'lodash'
 import * as topojson from 'topojson-client'
